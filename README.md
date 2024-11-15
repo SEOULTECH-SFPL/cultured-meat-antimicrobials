@@ -1,7 +1,6 @@
 # Development of Novel Antimicrobials ​and Safety Evaluation Technology ​to Replace Antibiotics for Cultured Meats
 배양육용 항생제 대체 신규 항균물질의 탐색 및 안전성 평가 기술 개발  
 
----
 
 ## [Project Page](https://seoultech-sfpl.github.io/cultured-meat-antimicrobials/)
 
