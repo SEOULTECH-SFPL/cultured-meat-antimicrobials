@@ -3,7 +3,7 @@
 
 ---
 
-## [Explore the Web Page: Database Development](https://seoultech-sfpl.github.io/cultured-meat-antimicrobials/)
+## [Project Page](https://seoultech-sfpl.github.io/cultured-meat-antimicrobials/)
 
 
 ### 1. **Alternative Antimicrobial Candidates**  
@@ -12,3 +12,8 @@
 
 ### 2. **Harmful Microbes**  
 ![Harmful Microbes](https://github.com/user-attachments/assets/6f4d97cc-9126-4cb1-ad64-6157a6a7f016)  
+
+---
+Seoul National University of Science and Technology Sustainable Food Processing Lab
+>
+서울과학기술대학교 지속 가능한 식품가공 연구실
