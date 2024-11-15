@@ -5,9 +5,6 @@
 
 ## [Explore the Web Page: Database Development](https://seoultech-sfpl.github.io/database/)
 
----
-
-## About the Web Page  
 
 ### 1. **Alternative Antimicrobial Candidates**  
 ![AlternativeAntimicrobialCandidates](https://github.com/user-attachments/assets/d57f05b2-dac4-4220-a034-a964968f37ad)
